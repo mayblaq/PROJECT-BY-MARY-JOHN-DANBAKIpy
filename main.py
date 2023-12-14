@@ -23,6 +23,7 @@ def onclick(event):
     else:
 def on_answer_button_click():
     answer_label.config(text="Answer: " + secret_number)
+  #THIS ISNT EASY
 
 # GUI components
 
